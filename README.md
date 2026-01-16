@@ -24,4 +24,4 @@ the final score.
 3. Answer the quiz questions
 
 ## Author
-Renitha Bettina
+Renitha Bettina A
